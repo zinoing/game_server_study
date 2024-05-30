@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|solutionrelative:ServerLibrary\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\Util\\Type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|solutionrelative:ServerLibrary\\Util\\Type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\ServerLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|solutionrelative:ServerLibrary\\ServerLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\ServerLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|solutionrelative:ServerLibrary\\ServerLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\ServerLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|solutionrelative:ServerLibrary\\ServerLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD26BADB-7133-4D3E-8676-FDDEDE780CBA}|ServerLibrary\\ServerLibrary.vcxproj|solutionrelative:ServerLibrary\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,38 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Type.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\Util\\Type.h",
+              "RelativeDocumentMoniker": "ServerLibrary\\Util\\Type.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\Util\\Type.h",
+              "RelativeToolTip": "ServerLibrary\\Util\\Type.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-30T18:17:35.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\stdafx.h",
               "RelativeDocumentMoniker": "ServerLibrary\\stdafx.h",
               "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\stdafx.h",
               "RelativeToolTip": "ServerLibrary\\stdafx.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-30T18:09:36.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ServerLibrary.h",
               "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\ServerLibrary.h",
               "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.h",
               "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\ServerLibrary.h",
               "RelativeToolTip": "ServerLibrary\\ServerLibrary.h",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAGwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-30T17:13:07.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ServerLibrary.cpp",
               "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\ServerLibrary.cpp",
               "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.cpp",
               "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_study\\game_server_programming_beginning\\ServerLibrary\\ServerLibrary\\ServerLibrary.cpp",
               "RelativeToolTip": "ServerLibrary\\ServerLibrary.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-30T17:12:44.337Z",
               "EditorCaption": ""
