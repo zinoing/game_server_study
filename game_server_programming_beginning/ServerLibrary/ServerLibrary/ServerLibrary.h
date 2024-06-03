@@ -48,7 +48,7 @@ typedef void(*Function)(void*);
 #include "./Util/tinyXml/tinyxml.h"
 
 // TODO: 필수 헤더 파일
-// -----------------------------------------------------------//
+// -------------------------------------------------------------//
 #include ".Net/WinSocket.h"
 #include "./Util/Type.h"
 #include "./Util/Util.h"
